@@ -1,5 +1,5 @@
 //
-//  AViewController.h
+//  CViewController.h
 //  OPACO
 //
 //  Created by usuario on 21/03/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AViewController : UIViewController
+@interface CViewController : UIViewController
 
 @end

@@ -8,14 +8,18 @@
 
 #import <UIKit/UIKit.h>
 
+#import "AViewController.h"
 #import "BViewController.h"
+#import "CViewController.h"
 
 @interface PrincipalViewController : UIViewController
 
-@property (strong, nonatomic) BViewController *aViewController;
+@property (strong, nonatomic) BViewController *bViewController;
+@property (strong, nonatomic) AViewController *aViewController;
+@property (strong, nonatomic) CViewController *cViewController;
 
-- (IBAction)llamarA:(id)sender;
-@property (weak, nonatomic) IBOutlet UIButton *btnA;
+- (IBAction)cambiarVista:(id)sender;
+
 @property(weak, nonatomic) IBOutlet UIView *windowIntermedio;
 
 

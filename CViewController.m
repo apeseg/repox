@@ -1,18 +1,18 @@
 //
-//  AViewController.m
+//  CViewController.m
 //  OPACO
 //
 //  Created by usuario on 21/03/13.
 //  Copyright (c) 2013 usuario. All rights reserved.
 //
 
-#import "AViewController.h"
+#import "CViewController.h"
 
-@interface AViewController ()
+@interface CViewController ()
 
 @end
 
-@implementation AViewController
+@implementation CViewController
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
