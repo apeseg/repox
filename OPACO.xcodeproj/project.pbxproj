@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		846278E916FD0E2B007AE90A /* OPACOCONFIG.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 846278E816FD0E2B007AE90A /* OPACOCONFIG.bundle */; };
+		8476CC8816FCB2E900DBCF56 /* PopOver1VC.m in Sources */ = {isa = PBXBuildFile; fileRef = 8476CC8616FCB2E900DBCF56 /* PopOver1VC.m */; };
+		8476CC8916FCB2E900DBCF56 /* PopOver1VC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8476CC8716FCB2E900DBCF56 /* PopOver1VC.xib */; };
 		84A07A2216FA7EDB00A04890 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84A07A2116FA7EDB00A04890 /* UIKit.framework */; };
 		84A07A2416FA7EDB00A04890 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84A07A2316FA7EDB00A04890 /* Foundation.framework */; };
 		84A07A2616FA7EDB00A04890 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84A07A2516FA7EDB00A04890 /* CoreGraphics.framework */; };
@@ -21,9 +24,21 @@
 		84D6C21216FB553300CCE620 /* AViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84D6C21016FB553300CCE620 /* AViewController.xib */; };
 		84D6C21A16FB5F3900CCE620 /* CViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84D6C21816FB5F3900CCE620 /* CViewController.m */; };
 		84D6C21B16FB5F3900CCE620 /* CViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84D6C21916FB5F3900CCE620 /* CViewController.xib */; };
+		84E3185116FCE6E200EC27C7 /* Bolivia.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E3184C16FCE6E200EC27C7 /* Bolivia.png */; };
+		84E3185216FCE6E200EC27C7 /* Colombia.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E3184D16FCE6E200EC27C7 /* Colombia.png */; };
+		84E3185316FCE6E200EC27C7 /* Guatemala.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E3184E16FCE6E200EC27C7 /* Guatemala.png */; };
+		84E3185416FCE6E200EC27C7 /* Mexico.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E3184F16FCE6E200EC27C7 /* Mexico.png */; };
+		84E3185516FCE6E200EC27C7 /* Peru.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E3185016FCE6E200EC27C7 /* Peru.png */; };
+		84E3185B16FCEF9C00EC27C7 /* Modal1VC.m in Sources */ = {isa = PBXBuildFile; fileRef = 84E3185916FCEF9C00EC27C7 /* Modal1VC.m */; };
+		84E3185C16FCEF9C00EC27C7 /* Modal1VC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84E3185A16FCEF9C00EC27C7 /* Modal1VC.xib */; };
+		84E3186B16FCFC9000EC27C7 /* Utilidades.m in Sources */ = {isa = PBXBuildFile; fileRef = 84E3186A16FCFC9000EC27C7 /* Utilidades.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		846278E816FD0E2B007AE90A /* OPACOCONFIG.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = OPACOCONFIG.bundle; sourceTree = "<group>"; };
+		8476CC8516FCB2E900DBCF56 /* PopOver1VC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PopOver1VC.h; sourceTree = "<group>"; };
+		8476CC8616FCB2E900DBCF56 /* PopOver1VC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PopOver1VC.m; sourceTree = "<group>"; };
+		8476CC8716FCB2E900DBCF56 /* PopOver1VC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PopOver1VC.xib; sourceTree = "<group>"; };
 		84A07A1D16FA7EDB00A04890 /* OPACO.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OPACO.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84A07A2116FA7EDB00A04890 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		84A07A2316FA7EDB00A04890 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -46,6 +61,18 @@
 		84D6C21716FB5F3900CCE620 /* CViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CViewController.h; sourceTree = "<group>"; };
 		84D6C21816FB5F3900CCE620 /* CViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CViewController.m; sourceTree = "<group>"; };
 		84D6C21916FB5F3900CCE620 /* CViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CViewController.xib; sourceTree = "<group>"; };
+		84E3184C16FCE6E200EC27C7 /* Bolivia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bolivia.png; sourceTree = "<group>"; };
+		84E3184D16FCE6E200EC27C7 /* Colombia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Colombia.png; sourceTree = "<group>"; };
+		84E3184E16FCE6E200EC27C7 /* Guatemala.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Guatemala.png; sourceTree = "<group>"; };
+		84E3184F16FCE6E200EC27C7 /* Mexico.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Mexico.png; sourceTree = "<group>"; };
+		84E3185016FCE6E200EC27C7 /* Peru.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Peru.png; sourceTree = "<group>"; };
+		84E3185616FCE70600EC27C7 /* PopoverViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PopoverViewController.h; sourceTree = "<group>"; };
+		84E3185716FCE70600EC27C7 /* PopoverViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PopoverViewController.m; sourceTree = "<group>"; };
+		84E3185816FCEF9C00EC27C7 /* Modal1VC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Modal1VC.h; sourceTree = "<group>"; };
+		84E3185916FCEF9C00EC27C7 /* Modal1VC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Modal1VC.m; sourceTree = "<group>"; };
+		84E3185A16FCEF9C00EC27C7 /* Modal1VC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Modal1VC.xib; sourceTree = "<group>"; };
+		84E3186916FCFC9000EC27C7 /* Utilidades.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Utilidades.h; sourceTree = "<group>"; };
+		84E3186A16FCFC9000EC27C7 /* Utilidades.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Utilidades.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,9 +89,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8476CC8416FCB13800DBCF56 /* popup1 */ = {
+			isa = PBXGroup;
+			children = (
+				8476CC8516FCB2E900DBCF56 /* PopOver1VC.h */,
+				8476CC8616FCB2E900DBCF56 /* PopOver1VC.m */,
+				8476CC8716FCB2E900DBCF56 /* PopOver1VC.xib */,
+			);
+			name = popup1;
+			sourceTree = "<group>";
+		};
+		8476CC8A16FCB7AF00DBCF56 /* modal1 */ = {
+			isa = PBXGroup;
+			children = (
+				84E3185816FCEF9C00EC27C7 /* Modal1VC.h */,
+				84E3185916FCEF9C00EC27C7 /* Modal1VC.m */,
+				84E3185A16FCEF9C00EC27C7 /* Modal1VC.xib */,
+			);
+			name = modal1;
+			sourceTree = "<group>";
+		};
 		84A07A1216FA7EDB00A04890 = {
 			isa = PBXGroup;
 			children = (
+				846278E816FD0E2B007AE90A /* OPACOCONFIG.bundle */,
+				84E3186916FCFC9000EC27C7 /* Utilidades.h */,
+				84E3186A16FCFC9000EC27C7 /* Utilidades.m */,
 				84A07A3816FA7EE700A04890 /* XIBS */,
 				84A07A2716FA7EDB00A04890 /* OPACO */,
 				84A07A2016FA7EDB00A04890 /* Frameworks */,
@@ -114,6 +164,10 @@
 		84A07A3816FA7EE700A04890 /* XIBS */ = {
 			isa = PBXGroup;
 			children = (
+				84E3184B16FCE68700EC27C7 /* banderas */,
+				84E3184916FCE63500EC27C7 /* seleccionpais */,
+				8476CC8A16FCB7AF00DBCF56 /* modal1 */,
+				8476CC8416FCB13800DBCF56 /* popup1 */,
 				84A07A3916FA7F0200A04890 /* PrincipalViewController.h */,
 				84A07A3A16FA7F0200A04890 /* PrincipalViewController.m */,
 				84A07A3C16FA7F1600A04890 /* PrincipalViewController.xib */,
@@ -128,6 +182,27 @@
 				84D6C21916FB5F3900CCE620 /* CViewController.xib */,
 			);
 			name = XIBS;
+			sourceTree = "<group>";
+		};
+		84E3184916FCE63500EC27C7 /* seleccionpais */ = {
+			isa = PBXGroup;
+			children = (
+				84E3185616FCE70600EC27C7 /* PopoverViewController.h */,
+				84E3185716FCE70600EC27C7 /* PopoverViewController.m */,
+			);
+			name = seleccionpais;
+			sourceTree = "<group>";
+		};
+		84E3184B16FCE68700EC27C7 /* banderas */ = {
+			isa = PBXGroup;
+			children = (
+				84E3184C16FCE6E200EC27C7 /* Bolivia.png */,
+				84E3184D16FCE6E200EC27C7 /* Colombia.png */,
+				84E3184E16FCE6E200EC27C7 /* Guatemala.png */,
+				84E3184F16FCE6E200EC27C7 /* Mexico.png */,
+				84E3185016FCE6E200EC27C7 /* Peru.png */,
+			);
+			name = banderas;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -186,6 +261,14 @@
 				84A07A5416FA84FF00A04890 /* BViewController.xib in Resources */,
 				84D6C21216FB553300CCE620 /* AViewController.xib in Resources */,
 				84D6C21B16FB5F3900CCE620 /* CViewController.xib in Resources */,
+				8476CC8916FCB2E900DBCF56 /* PopOver1VC.xib in Resources */,
+				84E3185116FCE6E200EC27C7 /* Bolivia.png in Resources */,
+				84E3185216FCE6E200EC27C7 /* Colombia.png in Resources */,
+				84E3185316FCE6E200EC27C7 /* Guatemala.png in Resources */,
+				84E3185416FCE6E200EC27C7 /* Mexico.png in Resources */,
+				84E3185516FCE6E200EC27C7 /* Peru.png in Resources */,
+				84E3185C16FCEF9C00EC27C7 /* Modal1VC.xib in Resources */,
+				846278E916FD0E2B007AE90A /* OPACOCONFIG.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -202,6 +285,9 @@
 				84A07A5316FA84FF00A04890 /* BViewController.m in Sources */,
 				84D6C21116FB553300CCE620 /* AViewController.m in Sources */,
 				84D6C21A16FB5F3900CCE620 /* CViewController.m in Sources */,
+				8476CC8816FCB2E900DBCF56 /* PopOver1VC.m in Sources */,
+				84E3185B16FCEF9C00EC27C7 /* Modal1VC.m in Sources */,
+				84E3186B16FCFC9000EC27C7 /* Utilidades.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
