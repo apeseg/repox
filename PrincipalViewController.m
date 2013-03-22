@@ -47,7 +47,7 @@
     
     [btnPanelIzquierdo setTitle:@">>" forState:UIControlStateNormal];
     [vistaPanelIzquierdo setBackgroundColor:[UIColor orangeColor]];
-    [vistaPanelIzquierdo setFrame:CGRectMake(340, 50, 0, 501)];
+    [vistaPanelIzquierdo setFrame:CGRectMake(-340, 0, 340, 501)];//CGRectMake(<#CGFloat x#>, <#CGFloat y#>, <#CGFloat width#>, <#CGFloat height#>)
  
 }
 
